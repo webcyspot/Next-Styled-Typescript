@@ -1,0 +1,31 @@
+[
+    {
+      "cardType": "eventCard",
+      "image": "@/assets/image1.svg",
+      "date": "WED, JAN 20, 17:00 - 18:15 EEST",
+      "title": "Fireside Chat: Meet ACME CEO Amy Miller",
+      "catagory": "Office: District 2 HQ",
+      "duration": "• 150 teammates are going",
+      "type": "In Person",
+      "attending": false
+    },
+    {
+      "cardType": "meetingCard",
+      "date": "Today, 18:15",
+      "title": "🍕 Let's Celebrate – Team Lunch",
+      "catagory": "Office: District 2 HQ · Pizza Place",
+      "duration": "",
+      "type": "In Person",
+      "attending": false
+    },
+    {
+      "cardType": "eventCard",
+      "image": "@/assets/image2.svg",
+      "date": "WED, JAN 20, 17:00 - 18:15 EEST",
+      "title": "Any mechanical keyboard enthusiasts in design?",
+      "catagory": "Office: District 2 HQ",
+      "duration": "• 150 teammates are going",
+      "type": "In Person",
+      "attending": true
+    }
+  ]
